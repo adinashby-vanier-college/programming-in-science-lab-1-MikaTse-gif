@@ -2,7 +2,6 @@
 # This function should print "Hello, World!" to the screen.
 def hello_world():
    print("Hello, World!")
-hello_world()
 
 
 # Function 2: Get input and output with different variable types
